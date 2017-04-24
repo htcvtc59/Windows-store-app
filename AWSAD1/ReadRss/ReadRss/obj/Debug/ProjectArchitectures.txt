@@ -1,0 +1,1 @@
+c:\users\macos\documents\visual studio 2015\Projects\ReadRss\ReadRss\ReadRss.csproj;neutral

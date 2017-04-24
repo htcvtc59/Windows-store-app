@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1\assignment-awsad1\obj\debug\intermediatexaml\assignment-awsad1.exe" HashGuid="a6a7d228-b602-11cd-77c9-ad1730bff754" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\google.apis.auth.1.25.0\lib\win81\google.apis.auth.dll" HashGuid="02c428de-bfe3-20c0-6755-18fb5e90d749" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\google.apis.auth.1.25.0\lib\win81\google.apis.auth.platformservices.dll" HashGuid="4b6594f3-d1b0-084d-cb2f-bd732344eac0" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\google.apis.core.1.25.0\lib\portable-net45+sl50+netcore45+wpa81+wp8\google.apis.core.dll" HashGuid="7fd64d38-a2da-b84d-1fd1-855a6b79e3a0" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\google.apis.1.25.0\lib\win81\google.apis.dll" HashGuid="cef5c876-55f2-3649-3cfc-aae32f3f62f4" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\google.apis.gmail.v1.1.25.0.825\lib\portable-net45+netcore45+wpa81+wp8\google.apis.gmail.v1.dll" HashGuid="7b4132dd-5a3d-0d11-973e-212668feb8d9" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\google.apis.1.25.0\lib\win81\google.apis.platformservices.dll" HashGuid="7f1becc6-b907-f5b5-7c29-ad68f328e2ef" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\assignment-awsad1gmail\packages\zlib.portable.signed.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+monotouch+monoandroid\zlib.portable.dll" HashGuid="d82003a1-a222-b48a-0b13-6d66e945ee8a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

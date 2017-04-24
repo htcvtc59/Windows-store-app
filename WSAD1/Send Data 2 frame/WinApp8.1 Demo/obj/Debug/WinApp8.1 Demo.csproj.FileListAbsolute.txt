@@ -1,0 +1,32 @@
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\App.g.i.cs
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\App.g.cs
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\XamlTypeInfo.g.cs
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\App.xaml
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\App.xbf
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\XamlSaveStateFile.xml
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\App.xbf
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\MainPage.xbf
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\WinApp8.1 Demo.xr.xml
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\WinApp8.1 Demo.exe
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\WinApp8.1 Demo.pdb
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\resources.pri
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\AppxManifest.xml
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\bin\Debug\WinApp8.1 Demo.build.appxrecipe
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\MainPage.g.i.cs
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\MainPage.g.cs
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\MainPage.xaml
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\MainPage.xbf
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\WinApp8.1 Demo.exe
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\WinApp8.1 Demo.pdb
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\priconfig.xml
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\priconfig.xml.intermediate
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\layout.resfiles
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\layout.resfiles.intermediate
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\resources.resfiles
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\resources.resfiles.intermediate
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\pri.resfiles
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\pri.resfiles.intermediate
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\qualifiers.txt
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\qualifiers.txt.intermediate
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\macos\documents\visual studio 2015\Projects\WinApp8.1 Demo\WinApp8.1 Demo\obj\Debug\ProjectArchitectures.txt

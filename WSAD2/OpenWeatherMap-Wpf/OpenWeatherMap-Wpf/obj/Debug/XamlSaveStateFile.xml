@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\openweathermap-wpf\openweathermap-wpf\obj\debug\intermediatexaml\openweathermap-wpf.exe" HashGuid="18aade96-2967-5e18-c45c-94bf617df7a3" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\openweathermap-wpf\packages\newtonsoft.json.10.0.1\lib\portable-net45+win8+wpa81+wp8\newtonsoft.json.dll" HashGuid="6accc05e-97e4-c513-a642-58f8bfbe4e27" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\openweathermap-wpf\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\openweathermap-wpf\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\openweathermap-wpf\packages\winrtxamltoolkit.controls.datavisualization.windows.1.8.1.0\lib\netcore451\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="f8fd8bd3-9eeb-d528-57f8-6c7d71980f08" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\openweathermap-wpf\packages\winrtxamltoolkit.windows.1.8.1.0\lib\netcore451\winrtxamltoolkit.dll" HashGuid="252c629a-ba8b-17d0-82a6-1ab8df5964bb" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

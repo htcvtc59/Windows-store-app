@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7E8JVVH</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>654296e2-ba14-4be2-9a56-3ff3b9fb2bac</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>2CF7D641542FE93F9C22D1F913290CA46362586D48995DF37AF81C57B08A1907</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>654296e2-ba14-4be2-9a56-3ff3b9fb2bac_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>654296e2-ba14-4be2-9a56-3ff3b9fb2bac_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>654296e2-ba14-4be2-9a56-3ff3b9fb2bac</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T18:54:48.101</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\Assignment-AWSAD1Calendar.exe">
+      <PackagePath>Assignment-AWSAD1Calendar.exe</PackagePath>
+      <Modified>2017-04-23T17:20:25.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Black.ttf">
+      <PackagePath>Fonts\Roboto-Black.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-BlackItalic.ttf">
+      <PackagePath>Fonts\Roboto-BlackItalic.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Bold.ttf">
+      <PackagePath>Fonts\Roboto-Bold.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-BoldItalic.ttf">
+      <PackagePath>Fonts\Roboto-BoldItalic.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Italic.ttf">
+      <PackagePath>Fonts\Roboto-Italic.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Light.ttf">
+      <PackagePath>Fonts\Roboto-Light.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-LightItalic.ttf">
+      <PackagePath>Fonts\Roboto-LightItalic.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Medium.ttf">
+      <PackagePath>Fonts\Roboto-Medium.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-MediumItalic.ttf">
+      <PackagePath>Fonts\Roboto-MediumItalic.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Regular.ttf">
+      <PackagePath>Fonts\Roboto-Regular.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:43.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Thin.ttf">
+      <PackagePath>Fonts\Roboto-Thin.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:44.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-ThinItalic.ttf">
+      <PackagePath>Fonts\Roboto-ThinItalic.ttf</PackagePath>
+      <Modified>2017-04-19T04:46:44.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\Assignment-AWSAD1Calendar.xr.xml">
+      <PackagePath>Assignment-AWSAD1Calendar.xr.xml</PackagePath>
+      <Modified>2017-04-23T06:18:18.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-23T17:20:25.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-23T06:18:18.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T18:54:48.032</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
