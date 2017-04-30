@@ -10,7 +10,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>aae4ed9b-74a7-4e54-990e-0774b15275b6</PackageIdentityName>
     <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,154 +25,154 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-18T15:38:32.305</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\Assignment-AWSAD1.exe">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\Assignment-AWSAD1.exe">
       <PackagePath>Assignment-AWSAD1.exe</PackagePath>
-      <Modified>2017-04-18T16:07:41.766</Modified>
+      <Modified>2017-04-25T01:04:31.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Google.Apis.Auth.1.25.0\lib\win81\Google.Apis.Auth.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Google.Apis.Auth.1.25.0\lib\win81\Google.Apis.Auth.dll">
       <PackagePath>Google.Apis.Auth.dll</PackagePath>
       <Modified>2017-04-10T01:25:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Google.Apis.Auth.1.25.0\lib\win81\Google.Apis.Auth.PlatformServices.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Google.Apis.Auth.1.25.0\lib\win81\Google.Apis.Auth.PlatformServices.dll">
       <PackagePath>Google.Apis.Auth.PlatformServices.dll</PackagePath>
       <Modified>2017-04-10T01:25:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Google.Apis.Core.1.25.0\lib\portable-net45+sl50+netcore45+wpa81+wp8\Google.Apis.Core.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Google.Apis.Core.1.25.0\lib\portable-net45+sl50+netcore45+wpa81+wp8\Google.Apis.Core.dll">
       <PackagePath>Google.Apis.Core.dll</PackagePath>
       <Modified>2017-04-10T01:25:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Google.Apis.1.25.0\lib\win81\Google.Apis.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Google.Apis.1.25.0\lib\win81\Google.Apis.dll">
       <PackagePath>Google.Apis.dll</PackagePath>
       <Modified>2017-04-10T01:25:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Google.Apis.Gmail.v1.1.25.0.825\lib\portable-net45+netcore45+wpa81+wp8\Google.Apis.Gmail.v1.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Google.Apis.Gmail.v1.1.25.0.825\lib\portable-net45+netcore45+wpa81+wp8\Google.Apis.Gmail.v1.dll">
       <PackagePath>Google.Apis.Gmail.v1.dll</PackagePath>
       <Modified>2017-04-11T01:23:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Google.Apis.1.25.0\lib\win81\Google.Apis.PlatformServices.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Google.Apis.1.25.0\lib\win81\Google.Apis.PlatformServices.dll">
       <PackagePath>Google.Apis.PlatformServices.dll</PackagePath>
       <Modified>2017-04-10T01:25:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
       <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
       <Modified>2014-04-07T05:26:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
       <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
       <Modified>2014-04-07T05:26:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
       <Modified>2015-06-22T04:06:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
       <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
       <Modified>2015-02-19T13:10:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
       <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
       <Modified>2015-02-19T13:10:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\packages\Zlib.Portable.Signed.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\packages\Zlib.Portable.Signed.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll">
       <PackagePath>Zlib.Portable.dll</PackagePath>
       <Modified>2015-06-22T02:00:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Black.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Black.ttf">
       <PackagePath>RobotoFont\Roboto-Black.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-BlackItalic.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-BlackItalic.ttf">
       <PackagePath>RobotoFont\Roboto-BlackItalic.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.501</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Bold.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Bold.ttf">
       <PackagePath>RobotoFont\Roboto-Bold.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-BoldItalic.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-BoldItalic.ttf">
       <PackagePath>RobotoFont\Roboto-BoldItalic.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.508</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Italic.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Italic.ttf">
       <PackagePath>RobotoFont\Roboto-Italic.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Light.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Light.ttf">
       <PackagePath>RobotoFont\Roboto-Light.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-LightItalic.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-LightItalic.ttf">
       <PackagePath>RobotoFont\Roboto-LightItalic.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.518</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Medium.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Medium.ttf">
       <PackagePath>RobotoFont\Roboto-Medium.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.523</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-MediumItalic.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-MediumItalic.ttf">
       <PackagePath>RobotoFont\Roboto-MediumItalic.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Regular.ttf">
       <PackagePath>RobotoFont\Roboto-Regular.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.530</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-Thin.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-Thin.ttf">
       <PackagePath>RobotoFont\Roboto-Thin.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.535</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\RobotoFont\Roboto-ThinItalic.ttf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\RobotoFont\Roboto-ThinItalic.ttf">
       <PackagePath>RobotoFont\Roboto-ThinItalic.ttf</PackagePath>
       <Modified>2017-04-17T05:06:54.538</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\Assets\btn_google_sign-in.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\Assets\btn_google_sign-in.png">
       <PackagePath>Assets\btn_google_sign-in.png</PackagePath>
       <Modified>2017-04-16T16:02:49.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\Assignment-AWSAD1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\Assignment-AWSAD1.xr.xml">
       <PackagePath>Assignment-AWSAD1.xr.xml</PackagePath>
       <Modified>2017-04-17T14:40:56.447</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
       <Modified>2017-04-18T13:02:09.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
       <Modified>2017-04-18T15:53:08.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\Signin.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\Signin.xbf">
       <PackagePath>Signin.xbf</PackagePath>
       <Modified>2017-04-18T13:02:09.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\Assignment-AWSAD1\Assignment-AWSAD1\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Gmail\Assignment-AWSAD1\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-18T15:38:31.551</Modified>

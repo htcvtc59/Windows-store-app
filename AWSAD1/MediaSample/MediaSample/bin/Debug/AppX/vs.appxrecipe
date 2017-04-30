@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7E8JVVH</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>77904d73-6abf-437f-830f-16251ed90a7c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>D10CD532F254DB2F315436D4892C129A290F09977517E11545E02EF97EEDAA0C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>77904d73-6abf-437f-830f-16251ed90a7c_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>77904d73-6abf-437f-830f-16251ed90a7c_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>77904d73-6abf-437f-830f-16251ed90a7c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-29T03:26:16.905</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\bin\Debug\MediaSample.exe">
+      <PackagePath>MediaSample.exe</PackagePath>
+      <Modified>2017-04-29T03:41:22.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\bin\Debug\MediaSample.xr.xml">
+      <PackagePath>MediaSample.xr.xml</PackagePath>
+      <Modified>2017-04-29T03:21:48.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-29T03:06:57.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-29T03:26:16.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\MediaSample\MediaSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-29T03:26:16.355</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

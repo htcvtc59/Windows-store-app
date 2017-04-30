@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7E8JVVH</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>435d15f5-247b-470d-850c-847f3b30caa1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>405A7BFD7E12B4BE64DAD69A14D38E60E47EB4282CB5AD3DA3BBF7416BD2C920</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>435d15f5-247b-470d-850c-847f3b30caa1_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>435d15f5-247b-470d-850c-847f3b30caa1_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>435d15f5-247b-470d-850c-847f3b30caa1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-25T02:08:44.524</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\bin\Debug\Entrance And Reorder Transition.exe">
+      <PackagePath>Entrance And Reorder Transition.exe</PackagePath>
+      <Modified>2017-04-25T02:16:08.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\bin\Debug\Entrance And Reorder Transition.xr.xml">
+      <PackagePath>Entrance And Reorder Transition.xr.xml</PackagePath>
+      <Modified>2017-04-25T02:16:08.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-25T02:08:42.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-25T02:16:08.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Entrance And Reorder Transition\Entrance And Reorder Transition\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-25T02:08:43.429</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

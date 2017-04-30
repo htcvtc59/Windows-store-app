@@ -10,47 +10,47 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>f262298d-2864-47f0-a790-c0954e5af0b2</PackageIdentityName>
     <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\bin\Debug\CameraPhoto.exe">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\bin\Debug\CameraPhoto.exe">
       <PackagePath>CameraPhoto.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\bin\Debug\CameraPhoto.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\bin\Debug\CameraPhoto.xr.xml">
       <PackagePath>CameraPhoto.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\CameraPhoto\CameraPhoto\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\CameraPhoto\CameraPhoto\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
