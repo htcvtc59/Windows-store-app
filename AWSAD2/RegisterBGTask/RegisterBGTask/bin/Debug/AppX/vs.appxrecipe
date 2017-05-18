@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7E8JVVH</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4150842f-8038-4e02-ae1c-d47a2997efe9</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>84C58F0F06E97321339FF8B25A414E4D54CB271F977DD9BA49765E699DB504AC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4150842f-8038-4e02-ae1c-d47a2997efe9_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4150842f-8038-4e02-ae1c-d47a2997efe9_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4150842f-8038-4e02-ae1c-d47a2997efe9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-01T13:34:25.121</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\bin\Debug\RegisterBGTask.exe">
+      <PackagePath>RegisterBGTask.exe</PackagePath>
+      <Modified>2017-05-01T13:35:33.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\bin\Debug\RegisterBGTask.xr.xml">
+      <PackagePath>RegisterBGTask.xr.xml</PackagePath>
+      <Modified>2017-05-01T13:34:24.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-01T13:34:24.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-05-01T13:34:24.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\RegisterBGTask\RegisterBGTask\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-01T13:34:24.707</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

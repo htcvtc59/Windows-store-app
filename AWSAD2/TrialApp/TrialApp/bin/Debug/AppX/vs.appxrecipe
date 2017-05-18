@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7E8JVVH</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5c75c5b-036d-4a7c-af6e-597d425079b4</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>E7690D10ABC9C9AA10E39EA3E316DABD3ABEE9550242FB5C88666D97B6793195</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f5c75c5b-036d-4a7c-af6e-597d425079b4_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f5c75c5b-036d-4a7c-af6e-597d425079b4_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f5c75c5b-036d-4a7c-af6e-597d425079b4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-05T04:54:03.970</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\bin\Debug\TrialApp.exe">
+      <PackagePath>TrialApp.exe</PackagePath>
+      <Modified>2017-05-05T04:54:03.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\Data\WindowsStoreProxy.xml">
+      <PackagePath>Data\WindowsStoreProxy.xml</PackagePath>
+      <Modified>2017-05-05T04:53:57.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\bin\Debug\TrialApp.xr.xml">
+      <PackagePath>TrialApp.xr.xml</PackagePath>
+      <Modified>2017-05-05T03:51:19.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-05T03:33:21.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-05-05T03:51:19.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MacOS\documents\visual studio 2015\Projects\TrialApp\TrialApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-05T04:54:03.452</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

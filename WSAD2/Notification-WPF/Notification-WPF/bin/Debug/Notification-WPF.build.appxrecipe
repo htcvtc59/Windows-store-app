@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-1PB07HE</Machine>
+    <Machine>DESKTOP-7E8JVVH</Machine>
     <WindowsUser>MacOS</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>6.3</TargetOsVersion>
@@ -10,47 +10,47 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>172cb4ad-65ae-4266-a24e-0caa05ec554a</PackageIdentityName>
     <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\bin\Debug\Notification-WPF.exe">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\bin\Debug\Notification-WPF.exe">
       <PackagePath>Notification-WPF.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\bin\Debug\Notification-WPF.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\bin\Debug\Notification-WPF.xr.xml">
       <PackagePath>Notification-WPF.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Notification-WPF\Notification-WPF\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\WSAD2\Notification-WPF\Notification-WPF\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>

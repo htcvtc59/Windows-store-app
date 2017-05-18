@@ -34,7 +34,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\Assignment-AWSAD1Calendar.exe">
       <PackagePath>Assignment-AWSAD1Calendar.exe</PackagePath>
-      <Modified>2017-04-27T01:51:18.144</Modified>
+      <Modified>2017-05-10T14:52:41.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\Fonts\Roboto-Black.ttf">
       <PackagePath>Fonts\Roboto-Black.ttf</PackagePath>
@@ -110,11 +110,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2017-04-27T01:51:17.718</Modified>
+      <Modified>2017-05-10T14:52:41.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2017-04-26T15:55:29.695</Modified>
+      <Modified>2017-05-04T01:58:04.179</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\Assignment-AWSAD1Calendar\Assignment-AWSAD1Calendar\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

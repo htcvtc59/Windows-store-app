@@ -1,0 +1,2 @@
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD2\TimeTriggerTask\TimeTriggerTask\TimeTriggerTask.csproj;neutral
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD2\TimeTriggerTask\TriggerInterface\TriggerInterface.csproj;neutral

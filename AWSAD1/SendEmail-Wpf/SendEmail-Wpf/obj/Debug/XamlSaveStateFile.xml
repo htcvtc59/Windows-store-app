@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\sendemail-wpf\sendemail-wpf\obj\debug\intermediatexaml\sendemail-wpf.exe" HashGuid="3251afb0-3f9d-2122-c6c5-210d33c4f772" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft visual studio 14.0\common7\ide\mailforwindowsstore.dll" HashGuid="292407b7-b881-843c-a08a-e749184a80ea" />
+    <ReferenceAssembly PathName="c:\users\macos\documents\visual studio 2015\projects\awsad1\sendemail-wpf\sendemail-wpf\bin\debug\mailforwindowsstore.dll" HashGuid="292407b7-b881-843c-a08a-e749184a80ea" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

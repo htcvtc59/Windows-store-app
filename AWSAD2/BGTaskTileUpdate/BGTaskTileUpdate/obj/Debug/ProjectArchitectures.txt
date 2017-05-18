@@ -1,0 +1,2 @@
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\BGTaskTileUpdate\BGTaskAddReferences\BGTaskAddReferences.csproj;neutral
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\BGTaskTileUpdate\BGTaskTileUpdate\BGTaskTileUpdate.csproj;neutral

@@ -529,6 +529,3 @@ namespace Notification_WPF.Notification_WPF_XamlTypeInfo
 }
 
 
-
-
-

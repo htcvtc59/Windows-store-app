@@ -10,7 +10,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>eb979daa-af7a-4b65-836f-91fce9a57384</PackageIdentityName>
     <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,50 +25,50 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-25T02:26:26.415</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\SlideIn Panel Animation.exe">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\SlideIn Panel Animation.exe">
       <PackagePath>SlideIn Panel Animation.exe</PackagePath>
-      <Modified>2017-04-25T02:28:37.206</Modified>
+      <Modified>2017-05-17T09:31:16.763</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T15:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\SlideIn Panel Animation.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\SlideIn Panel Animation.xr.xml">
       <PackagePath>SlideIn Panel Animation.xr.xml</PackagePath>
       <Modified>2017-04-25T02:26:25.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
       <Modified>2017-04-25T02:26:25.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
       <Modified>2017-04-25T02:28:37.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD1\SlideIn Panel Animation\SlideIn Panel Animation\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-25T02:26:25.717</Modified>

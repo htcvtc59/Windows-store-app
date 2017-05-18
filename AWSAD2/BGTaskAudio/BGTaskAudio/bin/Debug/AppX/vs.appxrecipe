@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7E8JVVH</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49f9ade1-8776-45c2-8173-00825d2a1566</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>73BE704FCB6F37C491B8CC1A1F0665606EEC35A24C6F79004A4237E5EDC1F5BE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>49f9ade1-8776-45c2-8173-00825d2a1566_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>49f9ade1-8776-45c2-8173-00825d2a1566_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>49f9ade1-8776-45c2-8173-00825d2a1566</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-01T16:10:27.035</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\bin\Debug\BGTaskAudio.exe">
+      <PackagePath>BGTaskAudio.exe</PackagePath>
+      <Modified>2017-05-01T16:06:11.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\bin\Debug\BGTaskAudio.xr.xml">
+      <PackagePath>BGTaskAudio.xr.xml</PackagePath>
+      <Modified>2017-05-01T16:01:06.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-01T16:01:06.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-05-01T16:01:06.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\BGTaskAudio\BGTaskAudio\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-01T16:10:26.871</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
