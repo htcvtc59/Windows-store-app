@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="EncryptDecrypt.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EncryptDecrypt"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <TextBlock FontSize="40" Text="Encrypt Decrypt" Margin="261,119,0,0"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="60" Width="450"/>
+        <TextBlock FontSize="20" Text="Plain Text" Margin="257,294,0,0"  HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock FontSize="20" Text="Encrypted Value" Margin="257,384,0,0"  HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtEncrypted" FontSize="20" Width="600" Margin="428,384,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock FontSize="20" Text="Decrypted Value" Margin="261,471,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtDecrypted" FontSize="20" Margin="428,471,0,0" Width="600" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtText" FontSize="20" Margin="461,294,0,0" Width="300" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:ConnectionId='1' Content="Submit" Margin="461,569,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"                      />
+
+
+    </Grid>
+</Page>
+

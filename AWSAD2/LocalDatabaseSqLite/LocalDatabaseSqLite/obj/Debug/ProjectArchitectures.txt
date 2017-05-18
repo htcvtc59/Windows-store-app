@@ -1,0 +1,1 @@
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AWSAD2\LocalDatabaseSqLite\LocalDatabaseSqLite\LocalDatabaseSqLite.csproj;neutral

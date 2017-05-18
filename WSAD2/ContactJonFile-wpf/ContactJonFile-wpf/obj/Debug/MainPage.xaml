@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="ContactJonFile_wpf.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ContactJonFile_wpf"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="68,50,0,0" TextWrapping="Wrap" PlaceholderText="Name" VerticalAlignment="Top" Height="22" Width="200"/>
+        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Margin="68,165,0,0" TextWrapping="Wrap" PlaceholderText="Phone" VerticalAlignment="Top" Height="32" Width="200"/>
+        <ComboBox x:Name="cbbGroup" HorizontalAlignment="Left" Margin="68,100,0,0"  PlaceholderText="Group" VerticalAlignment="Top" Height="45" Width="200">
+            <ComboBoxItem Content="A"/>
+            <ComboBoxItem Content="B"/>
+            <ComboBoxItem Content="C"/>
+        </ComboBox>
+        <Button x:ConnectionId='1'                       x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="65,215,0,0" VerticalAlignment="Top"/>
+        <Button x:ConnectionId='2'                       x:Name="btnView" Content="View" HorizontalAlignment="Left" Margin="191,215,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>
+

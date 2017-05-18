@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-1PB07HE</Machine>
+    <WindowsUser>MacOS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>59497c32-754c-4a39-8ec6-4308f2427bcb</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MacOS</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>6BB5DBB3EE6558E61085288F27A77E4CCE17FBFDB02293B863BFF7632A58FAA1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>59497c32-754c-4a39-8ec6-4308f2427bcb_1.0.0.0_neutral__7djq3hwqzgxtp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>59497c32-754c-4a39-8ec6-4308f2427bcb_7djq3hwqzgxtp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>59497c32-754c-4a39-8ec6-4308f2427bcb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MacOS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-25T01:38:53.992</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\bin\Debug\Canvas-WPF.exe">
+      <PackagePath>Canvas-WPF.exe</PackagePath>
+      <Modified>2017-03-25T01:47:18.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\bin\Debug\Canvas-WPF.xr.xml">
+      <PackagePath>Canvas-WPF.xr.xml</PackagePath>
+      <Modified>2017-03-25T01:47:18.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-03-25T01:38:52.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-25T01:47:18.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-25T01:38:53.324</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

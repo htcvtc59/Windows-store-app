@@ -1,0 +1,1 @@
+c:\users\macos\documents\visual studio 2015\Projects\SendEmail-Wpf\SendEmail-Wpf\SendEmail-Wpf.csproj;neutral

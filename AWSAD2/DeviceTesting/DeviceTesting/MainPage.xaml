@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="DeviceTesting.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DeviceTesting"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+        <Grid x:Name="ContentRoot" Background="Black">
+            <TextBlock FontSize="15" Text="Select Device" Margin="145,25,800,675"/>
+            <TextBlock FontSize="15" Text="Class GUID:" Margin="145,175,850,525"/>
+            <TextBlock FontSize="15" Name="txtResult" Foreground="White" Margin="521,250,323,441"/>
+            <ListBox Name="lstDevices" Width="400" Margin="375,10,400,600" Height="130">
+                <ListBoxItem Name="WebCam" Content="WebCam"/>
+                <ListBoxItem Name="PortDevices" Content="Portable Devices"/>
+                <ListBoxItem Name="Printer" Content="Printer"/>
+            </ListBox>
+            <TextBox Name="txtClassGuid" Margin="375,160,400,525" Height="40"/>
+            <Button Name="btnEnumerate" Content="Enumerate" Margin="375,240,0,450" Click="btnEnumerate_Click"/>
+            <ListBox Name="lstResult" Foreground="White" IsEnabled="False" Margin="61,345,114,10"/>
+
+        </Grid>
+   
+    
+</Page>

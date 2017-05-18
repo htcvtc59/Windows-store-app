@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="ReadWriteJsonObjS.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ReadWriteJsonObjS"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="tbIdCar" HorizontalAlignment="Left" Width="200" Margin="47,30,0,0" PlaceholderText="IdCar" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbMakeCar" HorizontalAlignment="Left" Width="200" Margin="47,80,0,0" PlaceholderText="MakeCar" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbModelCar" HorizontalAlignment="Left" Width="200" Margin="47,130,0,0" PlaceholderText="ModelCar" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbYearCar" HorizontalAlignment="Left" Width="200" Margin="47,180,0,0" PlaceholderText="YearCar" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbNameCar" HorizontalAlignment="Left" Width="200" Margin="292,180,0,0" PlaceholderText="NameCar" VerticalAlignment="Top"/>
+        <Button x:Name="btnWriteJson" Click="btnWriteJson_Click" Content="WriteJson" HorizontalAlignment="Left" Margin="54,262,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnReadJson" Click="btnReadJson_Click" Content="ReadJSon" HorizontalAlignment="Left" Margin="202,262,0,0" VerticalAlignment="Top"/>
+        <ListView x:Name="lvCar" ItemsSource="{Binding Source=BuyCar}"  HorizontalAlignment="Left" Height="218" Margin="48,355,0,0" VerticalAlignment="Top" Width="290">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="2" VerticalAlignment="Top" HorizontalAlignment="Left">
+                        <TextBlock Text="{Binding namecar}" />
+                        <ListView ItemsSource="{Binding Path=car}">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Left">
+                                        <TextBlock Text="{Binding id}" Margin="2"/>
+                                        <TextBlock Text="{Binding make}" Margin="2"/>
+                                        <TextBlock Text="{Binding model}" Margin="2"/>
+                                        <TextBlock Text="{Binding year}" Margin="2"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+       
+
+    </Grid>
+</Page>

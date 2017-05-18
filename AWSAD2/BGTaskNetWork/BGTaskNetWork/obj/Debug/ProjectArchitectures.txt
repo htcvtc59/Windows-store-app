@@ -1,0 +1,2 @@
+c:\users\macos\documents\visual studio 2015\Projects\BGTaskNetWork\BGTaskNetWork\BGTaskNetWork.csproj;neutral
+c:\users\macos\documents\visual studio 2015\Projects\BGTaskNetWork\BGInterface\BGInterface.csproj;neutral
