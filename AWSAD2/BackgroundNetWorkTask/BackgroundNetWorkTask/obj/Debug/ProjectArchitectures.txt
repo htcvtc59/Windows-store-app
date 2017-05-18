@@ -1,2 +1,0 @@
-C:\Users\MacOS\documents\visual studio 2015\Projects\BackgroundNetWorkTask\BackgroundNetWorkTask\BackgroundNetWorkTask.csproj;neutral
-C:\Users\MacOS\documents\visual studio 2015\Projects\BackgroundNetWorkTask\NetworkUpdateStatus\NetworkUpdateStatus.csproj;neutral

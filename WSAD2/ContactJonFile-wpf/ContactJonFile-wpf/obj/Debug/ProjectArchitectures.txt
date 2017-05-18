@@ -1,1 +1,0 @@
-C:\Users\MacOS\Documents\Visual Studio 2015\Projects\ContactJonFile-wpf\ContactJonFile-wpf\ContactJonFile-wpf.csproj;neutral

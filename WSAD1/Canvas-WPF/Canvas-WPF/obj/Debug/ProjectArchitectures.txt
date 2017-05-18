@@ -1,1 +1,0 @@
-c:\users\macos\documents\visual studio 2015\Projects\Canvas-WPF\Canvas-WPF\Canvas-WPF.csproj;neutral
